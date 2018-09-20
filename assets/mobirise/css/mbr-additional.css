@@ -2283,10 +2283,15 @@ body {
 .cid-r1iyrE632M .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.bg_desktop_services {
+    padding-top: 120px;
+    padding-bottom: 60px;
+    background-image: url("../../../assets/images/desktop_services.jpg");
+}
 .cid-r1iyrERXKn {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+    padding-top: 120px;
+    padding-bottom: 60px;
+    background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-r1iyrFfYet {
   padding-top: 30px;
