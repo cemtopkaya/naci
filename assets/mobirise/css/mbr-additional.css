@@ -1754,9 +1754,29 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r1i4numMJW {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+    padding-top: 120px;
+    padding-bottom: 60px;
+    background-image: url("../../../assets/images/security.jpg");
+}
+.cid-r1i4numMJq {
+    padding-top: 120px;
+    padding-bottom: 60px;
+    background-image: url("../../../assets/images/internet.png");
+}
+.cid-r1i4numMJi {
+    padding-top: 120px;
+    padding-bottom: 60px;
+    background-image: url("../../../assets/images/identity.png");
+}
+.cid-r1i4numMJtl {
+    padding-top: 120px;
+    padding-bottom: 60px;
+    background-image: url("../../../assets/images/teaching.jpg");
+}
+.cid-r1i4numMJdc {
+    padding-top: 120px;
+    padding-bottom: 60px;
+    background-image: url("../../../assets/images/datacenter.jpg");
 }
 .cid-r1i4qh1aad {
   padding-top: 30px;
